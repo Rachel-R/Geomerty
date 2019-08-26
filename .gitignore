@@ -1,5 +1,8 @@
+# custom properties
 *.iml
-/idea
+/.idea
+# output folder for production and test
+/out
 # Compiled class file
 *.class
 
