@@ -1,2 +1,2 @@
-# Geomerty
+# Geometry
 Geometry Library
